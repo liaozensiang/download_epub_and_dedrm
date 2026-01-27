@@ -20,3 +20,5 @@ sudo docker run --rm -v $(pwd)/data:/data -v $(pwd)/config:/config epub-worker p
 ```
 ***注意！ acsm有使用期限，太久沒去下載可能失效***
 # **注意！ Google Play圖書只允許6部裝置下載，使用此方法下載一次會被記作一部裝置**
+## 特別感謝
+dedrm 使用了 https://github.com/noDRM/DeDRM_tools 這個專案
