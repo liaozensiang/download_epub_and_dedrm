@@ -6,7 +6,7 @@
 ## 使用步驟
 1. git clone 並進入專案目錄
 ```bash
-git clone https://github.com/liaozensiang/download_epbg_and_dedrm.git
+git clone https://github.com/liaozensiang/download_epub_and_dedrm.git
 cd download_epbg_and_dedrm
 ```
 2. build image
